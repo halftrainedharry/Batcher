@@ -1,5 +1,7 @@
 _build/build.config.php
 _build/build.properties.php
+_build/gpm_resolvers
 config.core.php
 .idea
 nbproject
+_packages/batcher-3.0.0-alpha
